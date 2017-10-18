@@ -1,0 +1,53 @@
+.titulo{
+	font-family: 'Pacifico', cursive;
+	color: #708090;
+	text-align: left;
+}
+
+body{
+	text-align: center;
+}
+
+h3{
+	color: #708090;
+	font-family: 'Pacifico', cursive;
+	font-size: 20px;
+
+}
+
+h6{
+	color: #708090;
+	font-family: 'Lato', sans-serif;
+}
+p{
+	color: #708090;
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	padding-right: 7px;
+	padding-left: 7px;
+
+}
+
+.fa-paint-brush, .fa-heart, .fa-pinterest-p, .fa-pencil, .fa-rocket{
+	color: #708090;
+	font-size: 40px;
+	padding-top: 30px;
+}
+.caja1, .caja2, .caja3, .caja4, .caja5{
+	background: #E6E6FA;
+	width: 200px;
+	height: 300px;
+	display: inline-block;
+	float:left;
+	margin-right: 3px;
+}
+
+.caja3{
+	background: #F5F5F5;
+	width: 200px;
+	height: 320px;
+	display: inline-block;
+	float:left;
+	margin-right: 3px;
+
+}
